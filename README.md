@@ -1,7 +1,7 @@
-MoJ-Commons - Minecraft Library
+MC-Commons - Minecraft Library
 ===============================
 
-Version 1.8.9-1
+Version 1.9.4-0.0.1
 
 0. 既知の不具合
 ---------------
@@ -14,18 +14,16 @@ Version 1.8.9-1
 2. インストール
 ---------------
 
-  - 今のところ組み込みで使用しているのでインストールの必要はなし
+  - [Library Installer](https://github.com/ManOfJ/LibInstaller) を使用します､詳細はリンク先を参照してください
+    - インストーラ同梱の json/libinstall-commons.json がこのライブラリのインストール設定ファイルとなります
 
-3. コンフィグ
+3. 更新履歴
 ---------------
 
-4. 今後の更新予定
----------------
+  - 1.9.4-0.0.1
+    - 公開
 
-5. 更新履歴
----------------
-
-6. ライセンス
+4. ライセンス
 ---------------
 
 (c) Man of J, 2016
@@ -34,6 +32,6 @@ Version 1.8.9-1
 
 ---------------
 
-ご意見,ご要望,バグ報告などありましたら [Issue](https://github.com/ManOfJ/MoJ-Commons/issues) か下記の連絡手段でお願いします
+ご意見,ご要望,バグ報告などありましたら [Issue](https://github.com/ManOfJ/MC-Commons/issues) か下記の連絡手段でお願いします
   - E-mail: <man.of.j@outlook.com>
   - Twitter: [_ManOfJ](https://twitter.com/_ManOfJ)
