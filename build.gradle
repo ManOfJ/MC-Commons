@@ -14,12 +14,12 @@ apply plugin: 'net.minecraftforge.gradle.forge'
 apply plugin: 'maven'
 apply plugin: 'scala'
 
-version = "1.9.4-0.0.1"
+version = "1.10.2-0.0.2"
 group = "com.manofj.minecraft.moj_commons"
 archivesBaseName = "mc_commons"
 
 minecraft {
-  version = "1.9.4-12.17.0.1940"
+  version = "1.10.2-12.18.0.2006-1.10.0"
   runDir = "run"
   mappings = "snapshot_20160518"
 }
